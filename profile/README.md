@@ -10,7 +10,7 @@ We have developed APIs for a variety of trading platforms, including:
 - **PocketOption**
 - **Expert Options**
 - **Binomo API**
-- **Olimp Trade**
+- **Olymp Trade**
 - **Axiom**
 
 ## Features
