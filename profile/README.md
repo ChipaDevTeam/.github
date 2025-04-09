@@ -1,4 +1,5 @@
 # ChipaDevTeam
+👉 [Join us on Discord](https://discord.gg/p7YyFqSmAz)
 
 Welcome to **ChipaDevTeam**! We are a team dedicated to developing high-quality APIs for various trading platforms, enabling traders and developers to automate and enhance their trading strategies effortlessly.
 
