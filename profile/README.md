@@ -10,7 +10,7 @@ ChipaDevTeam specializes in creating reliable, efficient, and easy-to-integrate 
 We have developed APIs for a variety of trading platforms, including:
 - **PocketOption**
 - **Expert Options**
-- **Binomo API**
+- [**Binomo API**](https://github.com/ChipaDevTeam/BinomoAPI)
 - **Olymp Trade**
 - **Axiom**
 
