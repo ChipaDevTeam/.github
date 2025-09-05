@@ -29,7 +29,7 @@ To get started with our APIs, check out our documentation and guides available i
 We welcome contributions from the community! If you want to improve our APIs or add support for more trading platforms, feel free to submit a pull request.
 
 ## Contact
-For inquiries, support, or partnership opportunities, reach out to us at [thesunetcode@gmail.com] or visit our official website.
+For inquiries, support, or partnership opportunities, reach out to us at [chipadevteam@gmail.com] or visit our official website.
 
 ## Support us
 donate in paypal: [Paypal.me](https://paypal.me/ChipaCL?country.x=CL&locale.x=en_US) <br> 
